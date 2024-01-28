@@ -1,0 +1,16 @@
+D:\Учёба\Инфобез\ИБ2\shoting_target\shoting_target\bin\Debug\shoting_target.exe.config
+D:\Учёба\Инфобез\ИБ2\shoting_target\shoting_target\bin\Debug\shoting_target.exe
+D:\Учёба\Инфобез\ИБ2\shoting_target\shoting_target\bin\Debug\shoting_target.pdb
+D:\Учёба\Инфобез\ИБ2\shoting_target\shoting_target\obj\Debug\shoting_target.csproj.AssemblyReference.cache
+D:\Учёба\Инфобез\ИБ2\shoting_target\shoting_target\obj\Debug\shoting_target.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\Инфобез\ИБ2\shoting_target\shoting_target\obj\Debug\shoting_target.csproj.CoreCompileInputs.cache
+D:\Учёба\Инфобез\ИБ2\shoting_target\shoting_target\obj\Debug\shoting_target.exe
+D:\Учёба\Инфобез\ИБ2\shoting_target\shoting_target\obj\Debug\shoting_target.pdb
+D:\Учёба\Инфобез\ИБ2\1\ИБ2\shoting_target\shoting_target\bin\Debug\shoting_target.exe.config
+D:\Учёба\Инфобез\ИБ2\1\ИБ2\shoting_target\shoting_target\bin\Debug\shoting_target.exe
+D:\Учёба\Инфобез\ИБ2\1\ИБ2\shoting_target\shoting_target\bin\Debug\shoting_target.pdb
+D:\Учёба\Инфобез\ИБ2\1\ИБ2\shoting_target\shoting_target\obj\Debug\shoting_target.csproj.AssemblyReference.cache
+D:\Учёба\Инфобез\ИБ2\1\ИБ2\shoting_target\shoting_target\obj\Debug\shoting_target.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\Инфобез\ИБ2\1\ИБ2\shoting_target\shoting_target\obj\Debug\shoting_target.csproj.CoreCompileInputs.cache
+D:\Учёба\Инфобез\ИБ2\1\ИБ2\shoting_target\shoting_target\obj\Debug\shoting_target.exe
+D:\Учёба\Инфобез\ИБ2\1\ИБ2\shoting_target\shoting_target\obj\Debug\shoting_target.pdb
